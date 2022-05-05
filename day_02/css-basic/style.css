@@ -1,0 +1,27 @@
+h2{
+    color: green;
+    background-color: black;
+}
+#heading {
+    color: deepskyblue;
+    background-color: gold;
+    text-transform: uppercase;
+}
+.para{
+    font-style: italic;
+   color: #71e22b;
+    font-size: 20px;
+}
+.text-red{
+    color: red;
+}
+.text-center{
+    text-transform: uppercase;
+}
+.text-big{
+font-size: 92px;
+
+}
+.box p{
+    color: coral;
+}
