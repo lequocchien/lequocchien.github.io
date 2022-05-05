@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    
+
+}
+.card {
+    width: 160px;
+    height: 160px;
+    text-align: center;
+    box-shadow: rgba(100,100,111, 0.2) 0px 7px 29px 0px;
+    
+}
+.year {
+    background-color: #ef5321;
+}
+.date {
+    background-color: #fe6d3f;
+}
+.khoa_hoc a {
+    text-decoration: none;
+    color: black;
+}
